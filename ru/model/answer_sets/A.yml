@@ -4,5 +4,11 @@ values:
     #lowest level
     text: false
   - 
+    #second level
+    text: Да, для некоторых приложений
   - 
+    #third level
+    text: Да, хотя бы половина приложений
   - 
+    #highest level
+    text: Да, для большинства или всех приложений
