@@ -1,0 +1,14 @@
+#Different answers with their properties. We use 4 levels or answers
+values:
+  - 
+    #lowest level
+    text: false
+  - 
+    #second level
+    text: Да, некоторые из них
+  - 
+    #third level
+    text: Да, по крайней мере половина из них
+  - 
+    #highest level
+    text: Да, большинство или все из них
